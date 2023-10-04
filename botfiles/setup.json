@@ -1,0 +1,18 @@
+{
+      "READ_THIS": "BOT_TOKEN must be edit at .env",
+      "prefix": "skw.",
+      "host": "http://ubigdpsplay.7m.pl/database",
+      "owner": "934797267918028800",
+      "statusbot": "online",
+      "actionbot": "PLAYING",
+      "gdpsup": {
+            "READ_THIS": "change gdps, directory and turn if needed. turn is if you are using gdps song uploader use On",
+            "gdps": true,
+            "directory": "gdpsup",
+            "turn": "Off"
+      },
+      "channel": {
+      "gdpsstatus": "1158930972033691778",
+      "ratestatus": "1158930944623923260"
+      }
+}
